@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+   
+    "name": "Rainbow Scrollbar",
+    "version": "1.0.0",
+    "description": "Makes any website's scrollbar rainbow!",
+    "icons": {
+
+    },
+    "content_scripts": [{
+      "js": ["index.js"],
+      "matches": ["https://*/*"]
+    }]
+  }
