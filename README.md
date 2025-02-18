@@ -18,8 +18,8 @@ Install via the <a href="https://chromewebstore.google.com/detail/rainbow-scroll
 7. Select the decompressed folder
 ## Website
 To add Rainbow Scrollbar to your website:
-8. Go to the <a href="https://github.com/WordsDontMakeSense/RainbowScrollbar/blob/main/styles.css">styles.css</a>
-9. Copy the code
-10. Paste it into a CSS file in your website
+1. Go to the <a href="https://github.com/WordsDontMakeSense/RainbowScrollbar/blob/main/styles.css">styles.css</a>
+2. Copy the code
+3. Paste it into a CSS file in your website
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
